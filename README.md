@@ -1,5 +1,6 @@
 
 # Roomie
+- An app for like minded peoples to form groups, chat with each other and share their topics of interest.
 
 ## Tech Stack
 
